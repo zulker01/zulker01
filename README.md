@@ -8,7 +8,7 @@
 ## 🛠 Tech Stack
 
 #### 🌐 Web Frameworks
-<img src="https://skillicons.dev/icons?i=springboot,django,flask&theme=light" />
+<img src="https://skillicons.dev/icons?i=spring,django,flask&theme=light" />
 
 #### 💻 Programming Languages
 <img src="https://skillicons.dev/icons?i=c,cpp,java,python&theme=light" />
