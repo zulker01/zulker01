@@ -10,37 +10,40 @@
 <h3> :hammer_and_wrench: &nbsp;Tech Stack</h3>
 
 - :dagger: &nbsp;Languages:&nbsp;
-  ![](https://img.shields.io/badge/-Python-0A1A2F?style=flat&logo=python)
-  ![](https://img.shields.io/badge/-Java-0A1A2F?style=flat&logo=java)
-  ![](https://img.shields.io/badge/-C-0A1A2F?style=flat&logo=C)
-  ![](https://img.shields.io/badge/-C++-0A1A2F?style=flat&logo=cplusplus)
-  
+  ![](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+  ![](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+  ![](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
+  ![](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+
 - :shield: &nbsp;Data:&nbsp;
-  ![](https://img.shields.io/badge/-MsSQLserver-0A1A2F?style=flat&logo=mssql)
-  ![](https://img.shields.io/badge/-MySQL-0A1A2F?style=flat&logo=mysql)
-  ![](https://img.shields.io/badge/-PostgreSQL-0A1A2F?style=flat&logo=postgresql)
-  ![](https://img.shields.io/badge/-MongoDB-0A1A2F?style=flat&logo=mongodb)
- 
+  ![](https://img.shields.io/badge/MS%20SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+  ![](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+  ![](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+  ![](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+
 - :crossed_swords: &nbsp;Libraries/Frameworks:&nbsp;
-  ![](https://img.shields.io/badge/-Springboot-0A1A2F?style=flat&logo=springboot)
-  ![](https://img.shields.io/badge/-Django-0A1A2F?style=flat&logo=django)
-  ![](https://img.shields.io/badge/-flask-0A1A2F?style=flat&logo=Flask)
+  ![](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+  ![](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+  ![](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 
 - :anchor: &nbsp;Build Tools/Platforms: &nbsp;
-  ![](https://img.shields.io/badge/-Docker-0A1A2F?style=flat&logo=Docker)
-  ![](https://img.shields.io/badge/-Gradle-0A1A2F?style=flat&logo=Gradle)
+  ![](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+  ![](https://img.shields.io/badge/Gradle-02303A?style=flat&logo=gradle&logoColor=white)
 
-- :mailbox_with_mail: &nbsp;Message Queing:&nbsp;
-  ![](https://img.shields.io/badge/-rabbitmq-0A1A2F?style=flat&logo=rabbitmq)
+- :mailbox_with_mail: &nbsp;Message Queuing:&nbsp;
+  ![](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
+
 - :satellite: &nbsp;Embedded Systems:&nbsp;
-  ![](https://img.shields.io/badge/-Arduino-0A1A2F?style=flat&logo=Arduino)
-  ![](https://img.shields.io/badge/-STM32-0A1A2F?style=flat&logo=stmicroelectronics)
+  ![](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
+  ![](https://img.shields.io/badge/STM32-03234B?style=flat&logo=stmicroelectronics&logoColor=white)
+
 - :bow_and_arrow: &nbsp;Miscellaneous:&nbsp;
-  ![](https://img.shields.io/badge/-ELK_stack-0A1A2F?style=flat&logo=elastic)
-  ![](https://img.shields.io/badge/-Git-0A1A2F?style=flat&logo=git)
-  ![](https://img.shields.io/badge/-Android-0A1A2F?style=flat&logo=Android)
-  ![](https://img.shields.io/badge/-LaTeX-0A1A2F?style=flat&logo=LaTeX)
-  ![](https://img.shields.io/badge/-jira-0A1A2F?style=flat&logo=jira)
+  ![](https://img.shields.io/badge/ELK%20Stack-005571?style=flat&logo=elastic&logoColor=white)
+  ![](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+  ![](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
+  ![](https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white)
+  ![](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
+
 
 
 ## 📊 GitHub Stats
